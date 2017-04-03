@@ -1,2 +1,2 @@
-conflict
+#!/usr/bin/env python
 hello
